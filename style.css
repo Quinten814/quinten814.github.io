@@ -1,10 +1,10 @@
 body{
     background-color:lime;
-    color:blue
+    color:blue;
+    font-family: sans-serif;
 }
 h1{
     color:red;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .fcc-btn{
     background-color: green;
