@@ -7,6 +7,7 @@
 | 1.1.0      | :x:                |
 | OPEN-1.0.0 | :white_check_mark: |
 | OPEN-1.1.0 | :white_check_mark: |
+| OPEN-1.2.0 | :white_check_mark  |
 
 ### How to report copying
 
