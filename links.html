@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <link rel="stylesheet" href="style.css">
+<title>some of that links</title>
+<meta charset="UTF-8">
+<meta name="a.validate.01" content="5e4135a703c2bb14b949fbaa9ef0244e8c51" />
+<meta name="description" content="beetch.">
+<meta name="author" content="quinten aka. quinnet">
+<link rel="shortcut icon" href="/favicon+.ico?" type="image/gif"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </header>
+    <body>
+        <script src="fontfaceobserver.js" type="text/javascript">
+        </script>
+        <script type="text/javascript">
+          const pacificoObserver = new FontFaceObserver('Segoe UI');
+          Promise.all([
+        pacificoObserver.load(),
+        robotoObserver.load()
+      ]).then(function(){
+        document.documentElement.classList.add("fonts-loaded");
+      });
+        </script>
+        <script>
+          console.log("font has loaded")
+        </script>
+        
+        <script>
+      var isChromium = window.chrome;
+        var winNav = window.navigator;
+        var vendorName = winNav.vendor;
+        var isOpera = typeof window.opr !== "undefined";
+        var isIEedge = winNav.userAgent.indexOf("Edg") > -1;
+        var isIOSChrome = winNav.userAgent.match("CriOS");
+        
+        if (isIOSChrome) {
+            (function() {
+                var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+                link.type = 'image/x-icon';
+                link.rel = 'shortcut icon';
+                link.href = 'https://quinten814.github.io/favicon(1).ico';
+                document.getElementsByTagName('head')[0].appendChild(link);
+            })();
+        } else if(
+          isChromium !== null &&
+          typeof isChromium !== "undefined" &&
+          vendorName === "Google Inc." &&
+          isOpera === false &&
+          isIEedge === false
+        ) {
+            (function() {
+                var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+                link.type = 'image/x-icon';
+                link.rel = 'shortcut icon';
+                link.href = 'https://quinten814.github.io/favicon(1).ico';
+                document.getElementsByTagName('head')[0].appendChild(link);
+            })();
+        } else { 
+           // put anything you want here in javascipt for non-chrome stuff
+        }
+        </script>
+        <link rel="preload" as="font">
+        <h12>  
+            <div class="topnav">
+              <a href="https://quinten814.github.io">home</a>
+              <a href="blog.html">blog</a>
+              <a class="active" href="links.html">links n' stuff</a>
+            </div>
+          </h12>
+          <h1>
+            <a href="https://www.deviantart.com/quinten814">deviantart</a>
+            <br>
+          <a href="https://www.youtube.com/channel/UChjSc23XtWqtuhv0lhukmSg">youtube</a>
+          <br>
+          <a href="https://twitter.com/quinten814">twitter</a>
+          </h1>
+    </body>
+</html>
