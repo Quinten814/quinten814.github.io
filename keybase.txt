@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/quint814
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://quintenslimey.tk
+  * I am quint814 (https://keybase.io/quint814) on keybase.
+  * I have a public key ASDnOvMyi1EcJ-dlKEMVknB8dQPUEqDXj8EqGX2hy1Wpbgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e73af3328b511c27e76528431592707c7503d412a0d78fc12a197da1cb55a96e0a",
+      "host": "keybase.io",
+      "kid": "0120e73af3328b511c27e76528431592707c7503d412a0d78fc12a197da1cb55a96e0a",
+      "uid": "776b3c802c136f8e9eebf214a9eb2719",
+      "username": "quint814"
+    },
+    "merkle_root": {
+      "ctime": 1680790444,
+      "hash": "5f066f12cdffacc39806872b806c77bda2c68c5511d6cb1a74c0a8dd5749d793b62e5a1c3c951088346ea0a6ad8c53f0646ccd34d0395b9f4b081530c00241b7",
+      "hash_meta": "7b46dfa74e31d933edd6d527bb4c7baee2910153854e12eaecd223c8a20e6c21",
+      "seqno": 24301130
+    },
+    "service": {
+      "entropy": "6VvABI3hopDllfs4V/AaRy5E",
+      "hostname": "quintenslimey.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1680790514,
+  "expire_in": 504576000,
+  "prev": "622f705d1e8dd97e0056da68c345b1b3420ecb4941c653aefdf737db8ff4b8cb",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5zrzMotRHCfnZShDFZJwfHUD1BKg14/BKhl9octVqW4Kp3BheWxvYWTESpcCCcQgYi9wXR6N2X4AVtpow0Wxs0IOy0lBxlOu/fc324/0uMvEIHQxG2cJjpDJizosPeEGhz6lVyuDp5bERJ3uauxFo+PfAgHCo3NpZ8RA2dhVOAy40DLl9k70vdKM/oJoJ5k71CcEr/wZkMpkv/w9p1Re3pNzx/qTCDoPjTZ7OF564h7IJl/ESea6Sm4KCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICYDzcLmJmKWd+Q8j7Gr5P15JFTsTCV+7zhT65VzE0WIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/quint814
+
+==================================================================

@@ -1,0 +1,13 @@
+{
+    "name": "quintpage",
+    "version": "1.0.0",
+    "description": "a webpage",
+    "homepage": "https://github.com/Quinten814/quinten814.github.io",
+    "email": "quinnet814@gmail.com",
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "devDependencies": {
+        "@percy/agent": "^0.28.6",
+        "@percy/cli": "^1.0.0-beta.71",
+        "@percy/script": "^1.1.0"
+    }
+}
